@@ -1,0 +1,127 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1366px;
+	 height: 768px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1375px;
+	 height: 774px;
+	 z-index:1;
+} 
+
+ #Youreabouttoenter 
+{ 
+	 left: 598px; 
+	 top: 12px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 14px;
+	 z-index:2;
+} 
+
+ #TheInternetsXXXHardc 
+{ 
+	 left: 508px; 
+	 top: 101px; 
+	 position: absolute; 
+	 width: 358px;
+	 height: 45px;
+	 z-index:3;
+} 
+
+ #ThissitecontainsXXXR 
+{ 
+	 left: 482px; 
+	 top: 393px; 
+	 position: absolute; 
+	 width: 411px;
+	 height: 27px;
+	 z-index:4;
+} 
+
+ #IFYOUAREUNDER18CLICK 
+{ 
+	 left: 465px; 
+	 top: 425px; 
+	 position: absolute; 
+	 width: 447px;
+	 height: 10px;
+	 z-index:5;
+} 
+
+ #Parentsclicktopreve 
+{ 
+	 left: 388px; 
+	 top: 455px; 
+	 position: absolute; 
+	 width: 599px;
+	 height: 11px;
+	 z-index:6;
+} 
+
+ #IMG8423 
+{ 
+	 left: 679px; 
+	 top: 153px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 169px;
+	 z-index:7;
+} 
+
+ #letmeinon 
+{ 
+	 left: 558px; 
+	 top: 198px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 78px;
+	 z-index:8;
+} 
+
+ #imagen2 
+{ 
+	 left: 465px; 
+	 top: 322px; 
+	 position: absolute; 
+	 width: 457px;
+	 height: 58px;
+	 z-index:9;
+} 
+
+ #smutwords 
+{ 
+	 left: 535px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 317px;
+	 height: 54px;
+	 z-index:10;
+} 
+
+ #here 
+{ 
+	 left: 476px; 
+	 top: 454px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 12px;
+	 z-index:11;
+} 
